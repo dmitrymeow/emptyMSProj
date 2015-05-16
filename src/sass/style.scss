@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/*
+	DmitryMeow CSS
+	Skype: dmitrymeow
+	Email: dimka@belg.ru
+*/
+
+@import "compass/css3";
+@import "parts/mixins";
+@import "parts/vars";
+
+body{
+	font-size: 16px;
+	font-family: Verdana, 'Geneva CY', 'DejaVu Sans', sans-serif;
+}
+
+*{
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	-o-box-sizing: content-box;
+	box-sizing: content-box;
+}
